@@ -1,0 +1,4 @@
+#gets
+
+puts gets
+
